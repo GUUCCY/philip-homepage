@@ -1,5 +1,4 @@
-import { Container, Badge, Link, List, ListItem } from "@chakra-ui/react"
-import { ExternalLinkIcon } from "@chakra-ui/icons"
+import { Container } from "@chakra-ui/react"
 import { Title, WorkImage, Meta } from "../../components/work"
 import P from '../../components/paragraph'
 import Layout from "../../components/layouts/article"
@@ -14,7 +13,7 @@ const Work = () => (
             <WorkImage src="/images/projects/NumRec.png" alt="NumRec Webpage" />
             
             <P>
-                For this project I had bought the O'Reilly book on "Hands-On Machine Learning" and wanted to apply what I learned. I learned about linear regression and support vectors in order to train an ml model. The dataset that I used for this project was the MNIST dataset, which contains thousands of handwritten digits. I also learned about dimensionality reduction to help the efficiency of training the model.  
+                For this project I had bought the O&apos;Reilly book on &quot;Hands-On Machine Learning&quot; and wanted to apply what I learned. I learned about linear regression and support vectors in order to train an ml model. The dataset that I used for this project was the MNIST dataset, which contains thousands of handwritten digits. I also learned about dimensionality reduction to help the efficiency of training the model.  
             </P>
             <br />
             <p>

@@ -1,10 +1,8 @@
 import NextLink from 'next/link'
 import { Container, Heading, Link , List, ListItem } from "@chakra-ui/react";
 import { ExternalLinkIcon } from "@chakra-ui/icons"
-import { Title, WorkImage, Meta } from "../components/work"
-import P from '../components/paragraph'
-import Layout from "../components/layouts/article"
-import Section from '../components/section'
+import { Meta } from "../components/work"
+
 
 const Source = () => {
     return (
@@ -24,7 +22,7 @@ const Source = () => {
                 </ListItem>
             </List>
             <p>
-                This personal site was made possible by Takuya Matsuyama's tutorial on YouTube. Vist his website{' '}
+                This personal site was made possible by Takuya Matsuyama&apos;s tutorial on YouTube. Vist his website{' '}
           <Link as={NextLink} href="https://www.craftz.dog/" passHref scroll={false}>
             here!
           </Link>

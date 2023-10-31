@@ -18,7 +18,7 @@ import thumbAIClimate from '../public/images/projects/AIClimate.png'
 import thumbWhalesNFT from '../public/images/projects/WhalesNFT.png'
 import thumbChatBot from '../public/images/projects/ChatBot.png'
 import thumbNumRec from '../public/images/projects/NumRec.png'
-import thumbJPNSite from '../public/images/projects/JPNPracticeSite.png'
+
 
 const Page = () => {
     return (
