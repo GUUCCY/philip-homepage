@@ -71,7 +71,7 @@ const Page = () => {
                 Work
             </Heading>
             <Paragraph>
-                Hi, my name is Philip. I'm a junior at the University of Minnesota. I major in Computer Science I currently work as a Web and Software Development Assistant at the University of Minnesota.
+                Hi, my name is Philip. I&apos;m a junior at the University of Minnesota. I major in Computer Science I currently work as a Web and Software Development Assistant at the University of Minnesota.
             </Paragraph>
         <Box align="center" my={4}></Box>
         </Section>
